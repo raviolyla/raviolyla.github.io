@@ -1,0 +1,22 @@
+header{
+    background-color: #D07979;
+}
+
+a{
+    color: #FFF;
+    font-size: 20px;
+    font-family: "Quicksand";
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+#button {
+    display: inline-block;
+    background-color: #4A0000;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 2px #000;
+}
