@@ -36,3 +36,7 @@ a::before {
     box-shadow: 5px 5px 2px #000;
     margin-right: 0;
 }
+
+#button:hover{
+    background-color: #860000;
+}
